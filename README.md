@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
-  <b>Link Shortened Version Of <a href='https://github.com/Joelkb/DQ-The-File-Donor'>DQ-The-File-Donor</a> Bot</b>
+  <b>Link Shortened Version Of \n<a href='https://github.com/Joelkb/DQ-The-File-Donor'>DQ-The-File-Donor</a> Bot</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
