@@ -46,6 +46,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
+PORT = environ.get("PORT", "8080")
 SHORTENR_URL = environ.get('SHORTENR_URL', 'Clicksfly.com')
 SHORTNER_API = environ.get('SHORTNER_API', '')
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+GOFte-Rz2tcxODg1')
